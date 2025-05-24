@@ -24,6 +24,8 @@ This repository is for developers, students, and tech enthusiasts who want to:
 | 🌟 GPRM (GitHub Profile ReadMe Maker) | Drag-and-drop builder with widgets, badges, and skill highlights | [Visit Tool](https://gprm.itsvg.in) |
 | ✨ Profile README Generator | Simple and quick way to create cool profile sections | [Visit Tool](https://profile-readme-generator.com) |
 | 🧩 GitHub Profile Visualizer | Visual preview and live editor for your profile README | [Visit Tool](https://githubprofile.com) |
+| 📧 readme.so | Our simple editor allows you to quickly add and customize all the sections you need for your project's readme | [Visit Tool](https://readme.so) |
+
 
 ---
 
